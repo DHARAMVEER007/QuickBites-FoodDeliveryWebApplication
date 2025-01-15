@@ -36,7 +36,7 @@ Configure the project:
 ->Update database credentials in the dbConfig.java file.
 Run the application:
 ->Deploy the project on a server like Apache Tomcat.
-->Access the application in your browser at http://localhost:8080/quickbites.
+->Access the application in your browser.
 
 Screenshots 🌟
 ![Screenshot 2025-01-10 223419](https://github.com/user-attachments/assets/35690b2f-1c34-4a0f-8bd2-edc2d2600d39)
