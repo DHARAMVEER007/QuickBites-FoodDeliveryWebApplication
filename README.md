@@ -28,7 +28,7 @@ Database:
 Installation and Setup ⚙️
 Clone the repository:
 
-->git clone https://github.com/your-username/quickbites.git  
+->git clone https://github.com/DHARAMVEER007/quickbites.git  
 cd quickbites  
 Setup the database:
 ->Import the quickbites.sql file (provided in the repository) into MySQL.
